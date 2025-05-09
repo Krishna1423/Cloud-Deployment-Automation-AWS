@@ -60,7 +60,7 @@
      terraform destroy -auto-approve
      ```
 
-   - Wait for it to say
+   - Wait for it to finish and proceed.
      ```bash 
      cd ../backend
      terraform destroy -auto-approve
